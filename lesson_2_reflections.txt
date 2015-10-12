@@ -3,3 +3,7 @@ Sets up staging and work areas.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is for completed files to be committed to the repository and the working directory is for files being updated and not ready.
+
+How can you use the staging area to make sure you have one commit per logical change?
+After changing a file, add it to the staging area with git add, then compare to the repository with git diff --staged, if correct then commit with git commit.
+
