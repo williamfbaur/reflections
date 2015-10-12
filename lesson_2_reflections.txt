@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 Sets up staging and work areas.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is for completed files to be committed to the repository and the working directory is for files being updated and not ready.
