@@ -13,3 +13,6 @@ Helpful in making an experimental change while keeping the master in tact.
 How do the diagrams help you visualize the branch structure?
 You can see that if you do not start a new branch, making a change to a previous node will not be reachable and will not show in git log.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Adds known additions, removes known removals from both branches.
+
