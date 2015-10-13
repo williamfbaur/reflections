@@ -16,3 +16,6 @@ You can see that if you do not start a new branch, making a change to a previous
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Adds known additions, removes known removals from both branches.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging reduces work where there's no ambiguity.
+
