@@ -13,3 +13,6 @@ There will be fewer commits to merge.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Collaborators would have to agree to allow only one contributor to make changes at a time.  This is easier in that no merging would be needed but less productive since collaborators would have to wait their turn.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When collaborating with others requiring their input.
+
