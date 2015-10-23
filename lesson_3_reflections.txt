@@ -10,3 +10,6 @@ A fork is a clone on GitHub.  This allows you to make changes without changing t
 What is the benefit of having a copy of the last known state of the remote stored locally?
 There will be fewer commits to merge.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaborators would have to agree to allow only one contributor to make changes at a time.  This is easier in that no merging would be needed but less productive since collaborators would have to wait their turn.
+
